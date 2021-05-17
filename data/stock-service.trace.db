@@ -1,0 +1,6 @@
+2021-05-17 14:28:06 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "SELSTOCK_LINE[*] ECT * FROM STOCK_INGREDIENT"; expected "SET, SAVEPOINT, SCRIPT, SHUTDOWN, SHOW"; SQL statement:
+SELSTOCK_LINE ECT * FROM STOCK_INGREDIENT [42001-200]
+2021-05-17 14:41:06 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "STOCK_INGREDIENT[*]"; expected "SET, SAVEPOINT, SCRIPT, SHUTDOWN, SHOW"; SQL statement:
+STOCK_INGREDIENT [42001-200]
